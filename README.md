@@ -90,7 +90,6 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=moizmalik11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=moizmalik11&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moizmalik11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
@@ -111,6 +110,7 @@
 
 ## 🚀 Featured Projects
 
+<!-- Uncomment karo jab projects ready hon
 <div align="center">
 
 <a href="https://github.com/moizmalik11/project1">
@@ -121,13 +121,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=moizmalik11&repo=project2&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/moizmalik11/project3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=moizmalik11&repo=project3&theme=tokyonight&hide_border=true" />
-</a>
+</div>
+-->
 
-<a href="https://github.com/moizmalik11/project4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=moizmalik11&repo=project4&theme=tokyonight&hide_border=true" />
-</a>
+## 🚀 Featured Projects
+
+🔨 Projects below are automatically pulled from my **pinned repositories**
 
 </div>
 
