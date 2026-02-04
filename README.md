@@ -96,8 +96,8 @@
 
 </div>
 
----
 
+<!--
 <div align="center">
 
 ## 🏆 GitHub Trophies
@@ -108,7 +108,7 @@
 
 ---
 
-<!--## 🚀 Featured Projects
+## 🚀 Featured Projects
 
  Uncomment karo jab projects ready hon
 <div align="center">
