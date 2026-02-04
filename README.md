@@ -108,9 +108,9 @@
 
 ---
 
-## 🚀 Featured Projects
+<!--## 🚀 Featured Projects
 
-<!-- Uncomment karo jab projects ready hon
+ Uncomment karo jab projects ready hon
 <div align="center">
 
 <a href="https://github.com/moizmalik11/project1">
@@ -122,14 +122,18 @@
 </a>
 
 </div>
--->
 
-## 🚀 Featured Projects
+
+
 
 🔨 Projects below are automatically pulled from my **pinned repositories**
-
+<p align="center">
+  <a href="https://github.com/moizmalik11">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=moizmalik11&repo=Taking-Selfie-using-Smile-Detection-AI
+" />
+  </a>
 </div>
-
+-->
 ---
 
 <div align="center">
@@ -142,7 +146,7 @@
 
 ---
 
-## 💡 Random Dev Quote
+## 💡 Quote of the day
 
 <div align="center">
 
